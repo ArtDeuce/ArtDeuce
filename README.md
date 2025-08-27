@@ -8,7 +8,7 @@
 
   **Passionate AI Engineer | Research-Driven Developer | Enterprise Solution Architect**
   
-  *Building intelligent systems that bridge the gap between cutting-edge research and real-world impact*
+  *Building for fun and for impact*
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ## 🧠 About Me
 
-I'm an AI engineer with a deep passion for pushing the boundaries of artificial intelligence across multiple domains. My journey spans from academic research to enterprise-scale implementations, having worked with both Fortune 500 companies and innovative startups to build solutions from the ground up.
+Hey, I'm Artur, and I'm obsessed with AI and software. To me, it's fascinating how so many of the world's problems can be solved with just 2 hands, a keyboard, and practically no labor, especially that you have control of a whole new world! This obsession has allowed me to build stuff I never could've imagined. Just a few months ago I developed novel attention mechanisms for spatiotemporal understanding that hit 99% accuracy in context classification, and a year ago I built a neural network for chip power consumption prediction that surpassed Synopsys's benchmark! I've done plenty more projects but decided to highlight these gems. Also, I speak 5 languages which I think is pretty dope 😎
 
-**Current Role:** Building next-generation agentic solutions for cybersecurity at **Deloitte**, where I architect AI systems that autonomously detect, analyze, and respond to security threats.
+**Current Mission**: At Deloitte, I'm building next-generation agentic RAG pipelines that autonomously discover industrial threats by fusing vulnerability data with stakeholder evidence.
 
 ### 🎯 My AI Expertise Spans:
+- **Natural Language Processing** 📝 - Conversational AI and text analysis solutions 
 - **Computer Vision** 👁️ - Advanced image processing and visual understanding systems
-- **Natural Language Processing** 📝 - Conversational AI and text analysis solutions  
 - **AI Agents** 🤖 - Autonomous systems with decision-making capabilities
 - **High-Performance Computing** ⚡ - GPU-optimized algorithms for large-scale AI workloads
 
@@ -30,7 +30,7 @@ I'm an AI engineer with a deep passion for pushing the boundaries of artificial 
 
 ## 🔬 Research & Publications
 
-I actively contribute to the AI research community through preprints and open-source projects, focusing on practical applications of theoretical advances. My work bridges the gap between academic research and industry implementation.
+I'm currently working on spatiotemporal news analysis, with my latest [preprint available here](https://drive.google.com/file/d/1pcz5ckoBkP4wQ7ojY5r14g1LXoYaqL_1/view). This research includes the [SpatioTemporal News Corpus dataset](https://huggingface.co/datasets/Artur-B/SpatioTemporal-News-Corpus) and [Space-Time-MiniLM model](https://huggingface.co/HaidarJomaa/Space-Time-MiniLM-v0), both available on Hugging Face.
 
 ---
 
@@ -124,37 +124,36 @@ Error Recovery: Checksum validation → Fragment reassembly → State management
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-2C3E50?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
-
-### ⚡ High-Performance Computing
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-0F5197?style=flat-square)
-![NVIDIA](https://img.shields.io/badge/GPU%20Computing-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-### 🌐 Systems & Infrastructure  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🤖 AI/ML Technologies
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-2C3E50?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-</div>
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -163,32 +162,18 @@ Error Recovery: Checksum validation → Fragment reassembly → State management
 ## 🤝 Let's Collaborate
 
 I'm always excited to collaborate on innovative AI projects, especially those that:
-- **🔬 Push research boundaries** into practical applications
-- **🏢 Solve real enterprise challenges** with intelligent automation
-- **🔒 Enhance cybersecurity** through agentic AI systems
-- **🌍 Create positive social impact** through technology
+- **Push research boundaries**
+- **Create positive social impact**
+- **Are crazy difficult**
+
+<div align="center">
 
 ### 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-baboudjian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturbaboudjian@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Artur-B)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArtDeuce)
 
 </div>
 
----
-
-<div align="center">
-
-**💡 "Building AI systems that don't just process data, but understand context, make decisions, and create meaningful impact."**
-
-⭐ *If you find my work interesting, please consider starring my repositories!* ⭐
-
-</div>
-
----
-
-<sub>🔄 This README is updated regularly to reflect my latest projects and achievements. Last updated: $(date)</sub>
+<sub>🔄 This README is updated regularly to reflect my latest projects and achievements. Last updated: 8/28/2025</sub>
