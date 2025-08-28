@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Hey, I'm Artur, and I'm obsessed with AI and software. To me, it's fascinating how so many of the world's problems can be solved with just 2 hands, a keyboard, and practically no labor, especially that you have control of a whole new world! This obsession has allowed me to build stuff I never could've imagined. Just a few months ago I developed novel attention mechanisms for spatiotemporal understanding that hit 99% accuracy in context classification, and a year ago I built a neural network for chip power consumption prediction that surpassed Synopsys's benchmark! I've done plenty more projects but decided to highlight these gems. Also, I speak 5 languages which I think is pretty dope 😎
+Hey, I'm Artur, and I'm obsessed with AI and software. To me, it's fascinating how so many of the world's problems can be solved with just 2 hands, a keyboard, and practically no labor. This obsession has allowed me to build stuff I never could've imagined. Just a few months ago I developed novel attention mechanisms for spatiotemporal understanding that hit 99% accuracy in context classification, and a year ago I built a neural network for chip power consumption prediction that surpassed Synopsys's benchmark! I've done plenty more projects but decided to highlight these gems. Also, I speak 5 languages which I think is pretty dope :)
 
 **Current Mission**: At Deloitte, I'm building next-generation agentic RAG pipelines that autonomously discover industrial threats by fusing vulnerability data with stakeholder evidence.
 
